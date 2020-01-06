@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Lato-Light";
+  src: url("/fonts/Lato-Light.ttf");
+}
+
+@font-face {
+  font-family: "Lato-Regular";
+  src: url("/fonts/Lato-Regular.ttf");
+}
+@font-face {
+  font-family: "Lato-Black";
+  src: url("/fonts/Lato-Black.ttf");
+}
+
+.Lato-Black {
+  font-family: "Lato-Black";
+}
+
+.Lato-Regular {
+  font-family: "Lato-Black";
+}
+
+.Lato-Light {
+  font-family: "Lato-Black";
+}
